@@ -8,4 +8,4 @@ Izah:
 
 2.User sistemi yalniz admin panele girish uchun yazilmalidir.Admin panele kecid link ile olacaq.Login etmeyen admin panele keche bilmeyecek
 
-3.Butun tablelarin CRUD-nu yazmali 
+3.Butun tablelarin CRUD-nu yazmali - uygun olaraq bezi tablelarin ancaq update-ni yazacaqsiniz
